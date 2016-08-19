@@ -1,7 +1,8 @@
-# FirstBlood Crowdsale Page
-`/app` mainApp
-`/ethereum` tokenApp
+# FirstBlood Crowdsale Page <br>
+`/app` mainApp <br>
+`/ethereum` tokenApp <br>
 
 # Quick start
-Clone this repo
-`npm i` and `npm start` and you are ready!
+1. `git clone` clone this repo <br>
+2. `npm i` and `sudo npm install`<br>
+3. lastly `npm start` and you are ready! 
